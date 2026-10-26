@@ -1,0 +1,86 @@
+========================================================================================
+KİNDİKTİ COMPETITION ARCHIVE — MANIFEST OF FILES
+Total files: 70
+Format: [Relative Path] | [Size in bytes] | [SHA-256 Checksum]
+========================================================================================
+
+
+--- ROOT ---
+README.md                                                    |      42547 bytes | c12c9f7d105f568a17ab2b27106b4ed380633218859daf107a735b7d3e507f22
+
+--- DOCUMENTATION ---
+documentation/GIT_REPOSITORY_INFO.md                         |       4891 bytes | 4e3124d5e0473723c5586efe51e539d0dd7bce6bdf274bc9e59b3295501fd0d2
+documentation/LOCAL_RUN_GUIDE.md                             |       4566 bytes | 2c45de77f6c61961bbd7140e30b827220cb78118e4eefcc3e4074617fe368bf4
+documentation/PROJECT_ARCHITECTURE.md                        |       6356 bytes | a36338e993d51f71b3320dec998fbae45d662d1a9d1f30a3cd2c097185fb6550
+documentation/SCIENTIFIC_CONTEXT.md                          |       5333 bytes | 2248412e37b4315ed1515262442fa37f2d778ca3cf674de459c16a451c459772
+
+--- MEDIA ---
+media/graphics/icon-192.png                                  |       5750 bytes | fb1a1c428b1ab308222b789b6810026a91246de1475b5e925a097e49db853167
+media/graphics/icon-512.png                                  |      17253 bytes | 06d9d7ead7f2cc2879eb5668127ebaadebe0a0f860229e23b7134e30babd732d
+media/graphics/icon.svg                                      |        332 bytes | 2fdbf5c725bf1200241d1d78033c3a9e19f4178500d45da1faa18d34b7d75b92
+media/graphics/rock-hOyebhBD.jpg                             |     105999 bytes | ab7da85cfb88c0d8f687556f69d7d669a3f3ac757be7525feb5c68456178af47
+media/original_photos/original-01-3SVpbXdo.jpg               |     464902 bytes | 0c31f47146aa9d223bc27c632412615ab92171751b9f7a28e195f79bbb2a5b94
+media/original_photos/original-02-6D0J5cM4.jpg               |     438392 bytes | 1dbe417768234f9bb1a1f812ecd3ff4b20cf885b299f2137006b77b2570590bf
+media/original_photos/original-03-DZkQX5m2.jpg               |     385260 bytes | 7efb123d02fcb5d1ce5d92ccd709a661f38a749c4cc5e3089170dd34501663a2
+media/original_photos/original-04-CfphLrrs.jpg               |     217518 bytes | 298159072e72408d75f9c78d5a652e03fad5383bdc5d4e9dd97616d81d7a4976
+media/original_photos/original-05-BUIi4oJz.jpg               |     215305 bytes | a18bbd6c17385acc3e9beef1ce95f8e5b43b8b4f64130b288aeda614cf363a04
+media/original_photos/original-06-HwQAq_jT.jpg               |     192538 bytes | 608e050676e618e169c638a355b54cbe980a556a77e90a5346854998d6726a03
+media/video_frames/photo-01-BtP8RCGx.webp                    |      61824 bytes | f159c155eaffe189005a806f574921fb90a164a882e2e2ef4fbeeb50f03fdb5e
+media/video_frames/photo-02-pydFSVSK.webp                    |     170338 bytes | 2b96d255fa13ed92f2ef36db5e89fc818b302b7b3294e628c726c24756b0a79c
+media/video_frames/photo-03-Cg0WatZk.webp                    |      60946 bytes | 9e266f9bb1ab77adafb4b7c47b367ac7fd2c93a6c056b5eeb4c92600a44f82b4
+media/video_frames/photo-04-CRKFp9lq.webp                    |      27206 bytes | 867b774d649d7b5a1e8ffb490e3babc92071570a8258c7cedd9e6f313ef83570
+media/video_frames/photo-05-l4g-t15q.webp                    |      53524 bytes | f7dfd73a0a00ff857da5e7cdc44c6d39d79d17bfa030587f4fc1c929e64805b0
+media/video_frames/photo-06-Bf0ViVyq.webp                    |      83218 bytes | 5a8f0f5eea7b5a0a71c8bfe50824533a4d07ac5e66fb0b86ff96ae57ba35e443
+media/video_frames/photo-07-lgvuzASA.webp                    |      56728 bytes | 57dabc3618e1d7cccdab5325fa7dcc4fe34fc4bd02bb6571334e7b12ff79eb76
+media/video_frames/photo-08-BahSanFU.webp                    |      59514 bytes | 0b15c7d6f51041fcce2bc7b2aaa7aaf92a3bf99e0748ff14ebe12b1571a5b8a1
+media/videos/video-01-C4ioEOjU.mp4                           |    2778555 bytes | c4ce8cea1b12d13ed3bae605bf7d80b38ec2c458c87b8bb0daf6e4c2fe6d8da7
+media/videos/video-02-BWLOwOUH.mp4                           |    4914779 bytes | 78274660463102c654877846ebe97ca08d932b77cac6db8f654af4e540a09a0c
+media/videos/video-03-KFDdHmYF.mp4                           |    1389770 bytes | 1db936ac99075b69f7fff7775b679b7082403f48c388a80892bf37fcf7555785
+media/videos/video-04-BclQPU4v.mp4                           |    1458406 bytes | 298a086f3e6d4583ed1dd34d6dca0f5911f7a4bd8b566c1c72d457a3ad99719d
+media/videos/video-05-CYiz761q.mp4                           |    2898371 bytes | 8d3100b5068424e6eede8116151bf035f09008a20e9dc40b77e528a6b60b7e81
+media/videos/video-06-CAHO7JDm.mp4                           |    1786278 bytes | fc91c50539cb9ed0e9b78acab55d52c79b911a94d4e0d0d8cb2b330888f0692f
+media/videos/video-07-Bd6pfN0P.mp4                           |    2194921 bytes | cfcd182c9c866cdd20dee1f3f5cde3dcce5eae923a63711caf38fa1a59642678
+media/videos/video-08-BnvK18TE.mp4                           |    7088204 bytes | 139016f96e7a4d9ee9a89cb5daaf5a710cc811b8a819379f59c9fd4986614caa
+
+--- ROOT ---
+missing_resources.txt                                        |       4043 bytes | d90fa4192716e871557052502737c316c368afe2746480e698a852f491b82af9
+
+--- SOURCE_CODE ---
+source_code/.nojekyll                                        |          0 bytes | e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+source_code/assets/index-DGTFDKdy.js                         |     320429 bytes | c969d3a449c7865f542810b8a02a62e33ccf916439c88d4272f66822fca2e21c
+source_code/assets/index-kyOdSGbm.css                        |      75922 bytes | 168429aea526fcc5bdfabc470d041c07fd88b85b9cc5bf28093d708bbdfe7a8b
+source_code/assets/manrope-cyrillic-wght-normal-Dvxsihut.woff2 |      14500 bytes | c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914
+source_code/assets/manrope-greek-wght-normal-DL7QRZyv.woff2  |       9444 bytes | 2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be
+source_code/assets/manrope-latin-ext-wght-normal-Ch3YOpNY.woff2 |      15120 bytes | 3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb
+source_code/assets/manrope-latin-wght-normal-DHIcAJRg.woff2  |      24836 bytes | a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972
+source_code/assets/manrope-vietnamese-wght-normal-usUDDRr7.woff2 |       8520 bytes | 6bbb044ab420e07edb0a3042d2eb314b85e83a0182e945a15ab3b9092668dfd5
+source_code/assets/original-01-3SVpbXdo.jpg                  |     464902 bytes | 0c31f47146aa9d223bc27c632412615ab92171751b9f7a28e195f79bbb2a5b94
+source_code/assets/original-02-6D0J5cM4.jpg                  |     438392 bytes | 1dbe417768234f9bb1a1f812ecd3ff4b20cf885b299f2137006b77b2570590bf
+source_code/assets/original-03-DZkQX5m2.jpg                  |     385260 bytes | 7efb123d02fcb5d1ce5d92ccd709a661f38a749c4cc5e3089170dd34501663a2
+source_code/assets/original-04-CfphLrrs.jpg                  |     217518 bytes | 298159072e72408d75f9c78d5a652e03fad5383bdc5d4e9dd97616d81d7a4976
+source_code/assets/original-05-BUIi4oJz.jpg                  |     215305 bytes | a18bbd6c17385acc3e9beef1ce95f8e5b43b8b4f64130b288aeda614cf363a04
+source_code/assets/original-06-HwQAq_jT.jpg                  |     192538 bytes | 608e050676e618e169c638a355b54cbe980a556a77e90a5346854998d6726a03
+source_code/assets/photo-01-BtP8RCGx.webp                    |      61824 bytes | f159c155eaffe189005a806f574921fb90a164a882e2e2ef4fbeeb50f03fdb5e
+source_code/assets/photo-02-pydFSVSK.webp                    |     170338 bytes | 2b96d255fa13ed92f2ef36db5e89fc818b302b7b3294e628c726c24756b0a79c
+source_code/assets/photo-03-Cg0WatZk.webp                    |      60946 bytes | 9e266f9bb1ab77adafb4b7c47b367ac7fd2c93a6c056b5eeb4c92600a44f82b4
+source_code/assets/photo-04-CRKFp9lq.webp                    |      27206 bytes | 867b774d649d7b5a1e8ffb490e3babc92071570a8258c7cedd9e6f313ef83570
+source_code/assets/photo-05-l4g-t15q.webp                    |      53524 bytes | f7dfd73a0a00ff857da5e7cdc44c6d39d79d17bfa030587f4fc1c929e64805b0
+source_code/assets/photo-06-Bf0ViVyq.webp                    |      83218 bytes | 5a8f0f5eea7b5a0a71c8bfe50824533a4d07ac5e66fb0b86ff96ae57ba35e443
+source_code/assets/photo-07-lgvuzASA.webp                    |      56728 bytes | 57dabc3618e1d7cccdab5325fa7dcc4fe34fc4bd02bb6571334e7b12ff79eb76
+source_code/assets/photo-08-BahSanFU.webp                    |      59514 bytes | 0b15c7d6f51041fcce2bc7b2aaa7aaf92a3bf99e0748ff14ebe12b1571a5b8a1
+source_code/assets/rock-hOyebhBD.jpg                         |     105999 bytes | ab7da85cfb88c0d8f687556f69d7d669a3f3ac757be7525feb5c68456178af47
+source_code/assets/video-01-C4ioEOjU.mp4                     |    2778555 bytes | c4ce8cea1b12d13ed3bae605bf7d80b38ec2c458c87b8bb0daf6e4c2fe6d8da7
+source_code/assets/video-02-BWLOwOUH.mp4                     |    4914779 bytes | 78274660463102c654877846ebe97ca08d932b77cac6db8f654af4e540a09a0c
+source_code/assets/video-03-KFDdHmYF.mp4                     |    1389770 bytes | 1db936ac99075b69f7fff7775b679b7082403f48c388a80892bf37fcf7555785
+source_code/assets/video-04-BclQPU4v.mp4                     |    1458406 bytes | 298a086f3e6d4583ed1dd34d6dca0f5911f7a4bd8b566c1c72d457a3ad99719d
+source_code/assets/video-05-CYiz761q.mp4                     |    2898371 bytes | 8d3100b5068424e6eede8116151bf035f09008a20e9dc40b77e528a6b60b7e81
+source_code/assets/video-06-CAHO7JDm.mp4                     |    1786278 bytes | fc91c50539cb9ed0e9b78acab55d52c79b911a94d4e0d0d8cb2b330888f0692f
+source_code/assets/video-07-Bd6pfN0P.mp4                     |    2194921 bytes | cfcd182c9c866cdd20dee1f3f5cde3dcce5eae923a63711caf38fa1a59642678
+source_code/assets/video-08-BnvK18TE.mp4                     |    7088204 bytes | 139016f96e7a4d9ee9a89cb5daaf5a710cc811b8a819379f59c9fd4986614caa
+source_code/icon-192.png                                     |       5750 bytes | fb1a1c428b1ab308222b789b6810026a91246de1475b5e925a097e49db853167
+source_code/icon-512.png                                     |      17253 bytes | 06d9d7ead7f2cc2879eb5668127ebaadebe0a0f860229e23b7134e30babd732d
+source_code/icon.svg                                         |        332 bytes | 2fdbf5c725bf1200241d1d78033c3a9e19f4178500d45da1faa18d34b7d75b92
+source_code/index.html                                       |        895 bytes | 1ee7856c57939f8fd6382b04ac99ccf87c0b1552293ebf58dc9932d54830ffcd
+source_code/manifest.webmanifest                             |        581 bytes | d3944e1e1718331deec8d80b149e16e7e50fe3d5747fa437bfcaceb773cbc639
+source_code/sw.js                                            |       2123 bytes | fe6db6b75619797b6667d3a76bc822bf62c52b63d62c9b708a6a0dbae34e474d
+source_code/third-party-notices.txt                          |       8921 bytes | 3c49c5ede17f2ea9e34527f803e51aa0856ecedb377de8df13ac70d559449fa3

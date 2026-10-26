@@ -1,0 +1,25 @@
+# Dependencies and build caches
+node_modules/
+.npm/
+.cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and sensitive files
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.token
+
+# Temporary editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+scratch/
