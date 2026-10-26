@@ -16,9 +16,9 @@ documentation/PROJECT_ARCHITECTURE.md                        |       6356 bytes 
 documentation/SCIENTIFIC_CONTEXT.md                          |       5333 bytes | 2248412e37b4315ed1515262442fa37f2d778ca3cf674de459c16a451c459772
 
 --- MEDIA ---
-media/graphics/icon-192.png                                  |       5750 bytes | fb1a1c428b1ab308222b789b6810026a91246de1475b5e925a097e49db853167
-media/graphics/icon-512.png                                  |      17253 bytes | 06d9d7ead7f2cc2879eb5668127ebaadebe0a0f860229e23b7134e30babd732d
-media/graphics/icon.svg                                      |        332 bytes | 2fdbf5c725bf1200241d1d78033c3a9e19f4178500d45da1faa18d34b7d75b92
+media/graphics/icon-192.png                                  |      27495 bytes | 386577d63768012a75068e19edd2bb566b129d6995d532b473ec44341a9dd8c8
+media/graphics/icon-512.png                                  |     153484 bytes | 63ded0bb8602eea14ea11c79fdc611153ea904f73c875e88ebe25539892ed283
+media/graphics/icon.svg                                      |     204814 bytes | c4703c9d3f9f61bd452c7d0e86357b47614081cbf59a2b8242fab425260e34bf
 media/graphics/illustration.png                              |    1725387 bytes | 1119acd04522540faacb7c8994929184e9d4980aecbd101c8598439141772c3d
 media/graphics/rock-hOyebhBD.jpg                             |     105999 bytes | ab7da85cfb88c0d8f687556f69d7d669a3f3ac757be7525feb5c68456178af47
 media/new_materials/WhatsApp Image 2026-10-26 at 19.25.30.jpeg |     297595 bytes | 4b32b3174b7c48595ce87a347c396f794e62fd8c756977913e677a4850171511
@@ -139,11 +139,11 @@ source_code/assets/video-14-strata-details.mp4               |    1452719 bytes 
 source_code/assets/video-15-rock-shelter.mp4                 |    1176524 bytes | 77bf546a1721ae96c6dd1808f7af23e747d6bc8ed0713a331c91b7b9f524d692
 source_code/assets/video-16-surface-macro.mp4                |     990136 bytes | b86c4d5e847a947af40355d5928d4be9dc65288f17def5f91bf44370b6d5622d
 source_code/assets/video-17-field-moment.mp4                 |     606371 bytes | 014135de32d1e83dfd56b45e9d1c59a59b96e6a9281d4086576f673278905274
-source_code/icon-192.png                                     |       5750 bytes | fb1a1c428b1ab308222b789b6810026a91246de1475b5e925a097e49db853167
-source_code/icon-512.png                                     |      17253 bytes | 06d9d7ead7f2cc2879eb5668127ebaadebe0a0f860229e23b7134e30babd732d
-source_code/icon.svg                                         |        332 bytes | 2fdbf5c725bf1200241d1d78033c3a9e19f4178500d45da1faa18d34b7d75b92
-source_code/index.html                                       |        895 bytes | 1ee7856c57939f8fd6382b04ac99ccf87c0b1552293ebf58dc9932d54830ffcd
+source_code/icon-192.png                                     |      27495 bytes | 386577d63768012a75068e19edd2bb566b129d6995d532b473ec44341a9dd8c8
+source_code/icon-512.png                                     |     153484 bytes | 63ded0bb8602eea14ea11c79fdc611153ea904f73c875e88ebe25539892ed283
+source_code/icon.svg                                         |     204814 bytes | c4703c9d3f9f61bd452c7d0e86357b47614081cbf59a2b8242fab425260e34bf
+source_code/index.html                                       |        975 bytes | a600d82373dc290e77d2084ac9db0f42a62477e6564fe4a2b865bc29aee37bd4
 source_code/manifest.webmanifest                             |        581 bytes | d3944e1e1718331deec8d80b149e16e7e50fe3d5747fa437bfcaceb773cbc639
-source_code/sw.js                                            |       2419 bytes | b1b9f9973d0c6e944c41ae59290e7e329f5b00baa1a866e78fa2623b94adc402
+source_code/sw.js                                            |       2418 bytes | 07d42caf5b78c6bd4d84fbaf21f7c36c688b93088e1eb30b581232d9cbb117af
 source_code/third-party-notices.txt                          |       8921 bytes | 3c49c5ede17f2ea9e34527f803e51aa0856ecedb377de8df13ac70d559449fa3
 
