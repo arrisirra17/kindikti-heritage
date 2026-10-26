@@ -1,12 +1,13 @@
 ========================================================================================
 KİNDİKTİ COMPETITION ARCHIVE — MANIFEST OF FILES
-Total files: 70
+Total files: 135
 Format: [Relative Path] | [Size in bytes] | [SHA-256 Checksum]
 ========================================================================================
 
-
 --- ROOT ---
-README.md                                                    |      42547 bytes | c12c9f7d105f568a17ab2b27106b4ed380633218859daf107a735b7d3e507f22
+.gitignore                                                   |        264 bytes | 2b16071969294c4cb99dd82ce534a16902b9ceb7db40a40f963902ddab7a47f7
+README.md                                                    |      59683 bytes | 7bffed2e2e1f4eb1147f3dac9ce5a6aff76b3d881a07f8c59e6548e3b24ac725
+missing_resources.txt                                        |       5103 bytes | ee806c29b7f452ea62e575fdec2263f241d64e38b6423d864f69b88a4814d9d1
 
 --- DOCUMENTATION ---
 documentation/GIT_REPOSITORY_INFO.md                         |       4891 bytes | 4e3124d5e0473723c5586efe51e539d0dd7bce6bdf274bc9e59b3295501fd0d2
@@ -18,13 +19,51 @@ documentation/SCIENTIFIC_CONTEXT.md                          |       5333 bytes 
 media/graphics/icon-192.png                                  |       5750 bytes | fb1a1c428b1ab308222b789b6810026a91246de1475b5e925a097e49db853167
 media/graphics/icon-512.png                                  |      17253 bytes | 06d9d7ead7f2cc2879eb5668127ebaadebe0a0f860229e23b7134e30babd732d
 media/graphics/icon.svg                                      |        332 bytes | 2fdbf5c725bf1200241d1d78033c3a9e19f4178500d45da1faa18d34b7d75b92
+media/graphics/illustration.png                              |    1725387 bytes | 1119acd04522540faacb7c8994929184e9d4980aecbd101c8598439141772c3d
 media/graphics/rock-hOyebhBD.jpg                             |     105999 bytes | ab7da85cfb88c0d8f687556f69d7d669a3f3ac757be7525feb5c68456178af47
+media/new_materials/WhatsApp Image 2026-10-26 at 19.25.30.jpeg |     297595 bytes | 4b32b3174b7c48595ce87a347c396f794e62fd8c756977913e677a4850171511
+media/new_materials/WhatsApp Image 2026-10-26 at 19.25.45.jpeg |     277243 bytes | 9d53f0911a008d85e39c1d83e305b98297a626a48465727d1833c2cbdd4f683c
+media/new_materials/WhatsApp Image 2026-10-26 at 19.25.55.jpeg |     122036 bytes | c465a7c0ebbfd54b16a6d872dd1ae4a09d8a0cdb3fb5b1a87da1688b06e39bda
+media/new_materials/WhatsApp Image 2026-10-26 at 19.26.05.jpeg |     136709 bytes | 7959a8bdab1c177014d730c1e4be617844c55bb9c63e70570b22848589597cba
+media/new_materials/WhatsApp Image 2026-10-26 at 19.26.14.jpeg |     137552 bytes | 77d006c35a095ea9ceb6e91d7a91fddcea8020fd9853568b63b1d85f680dc7aa
+media/new_materials/WhatsApp Image 2026-10-26 at 19.26.27 (1).jpeg |     244015 bytes | a80697e648035662026dcbdb570889df05ad7eb87a7b2860396e7b1b100cac00
+media/new_materials/WhatsApp Image 2026-10-26 at 19.26.27.jpeg |     328425 bytes | 7a2b62fa956544ebf1f4f6588ba2e313216ada594b6236bb1f2d38d3c6b09ae8
+media/new_materials/WhatsApp Image 2026-10-26 at 19.26.41.jpeg |     276562 bytes | ed8c6f6f96bfff6d93ce26c03ddaaf882670befa4b73ba18925d2d6002228e40
+media/new_materials/WhatsApp Image 2026-10-26 at 19.26.53.jpeg |     259631 bytes | a692de873fe1266f4cab0fa049333e4c147317e7d14085d45abc58992c2ef94c
+media/new_materials/WhatsApp Image 2026-10-26 at 19.27.02.jpeg |     287139 bytes | 650558108db92c2e20066354764f248e46c393f147b40ac571092b7633f1b513
+media/new_materials/WhatsApp Image 2026-10-26 at 19.30.30 (1).jpeg |     120777 bytes | 125bae08d85ab7fbcb039aa263de30a35f6892252568fa781841a3305dc0525b
+media/new_materials/WhatsApp Image 2026-10-26 at 19.30.30 (2).jpeg |     254428 bytes | 3e54ce21e6fc05061c35b8381d75eb2aa159dbaaa9966beb012eb2d1ef728ab0
+media/new_materials/WhatsApp Image 2026-10-26 at 19.30.30.jpeg |      82524 bytes | 22f10d5a6898ec9847375e208c9b4cdb98c7509c0b5be8af2315e98c95570f55
+media/new_materials/WhatsApp Video 2026-10-26 at 19.22.35.mp4 |    7059310 bytes | e96cd593787e85037eb04984ef102751446df0f7530c7a1488c349377d6a5eb2
+media/new_materials/WhatsApp Video 2026-10-26 at 19.22.36.mp4 |    2694876 bytes | 0fa973f74a3bca206c52b0497272b00153c1e67af6a59c73b6ef302a326adff1
+media/new_materials/WhatsApp Video 2026-10-26 at 19.22.38.mp4 |    2176196 bytes | 2a2539a4c35996d32deae5769bcf208a4b20cb0c2992930508428289362d54e2
+media/new_materials/WhatsApp Video 2026-10-26 at 19.24.03.mp4 |    3617716 bytes | 5b80d87d53eea3ca66b2c0800cfba7f9d41a459ff3f76ef7c45435d9893d22b1
+media/new_materials/WhatsApp Video 2026-10-26 at 19.24.59.mp4 |    2036289 bytes | aeb26a18a2f6a9aebfee0c0683fe88343026a53671ac7df2c0ebe7fdb64f100b
+media/new_materials/WhatsApp Video 2026-10-26 at 19.25.08.mp4 |    1822135 bytes | 0470b9249d28256ac80a0e74e685ba8063811d4a34558fbb83a1638085f88b47
+media/new_materials/WhatsApp Video 2026-10-26 at 19.25.19.mp4 |    5095700 bytes | 8f86d8a356838cd20ad6833fbe78ca8086a279d329f6949f0b4e7ce71ca49a8b
+media/new_materials/WhatsApp Video 2026-10-26 at 19.27.16.mp4 |    1717445 bytes | 2d0ace63647e82a86e02e05a9ab9b19d08855b44d41c9fe015ec9d8df256c19d
+media/new_materials/WhatsApp Video 2026-10-26 at 19.27.17.mp4 |    4496132 bytes | e42bef70d0d76180bcab7303cd9b6d7328833a6c8b4886a6701be721e8ef523c
+media/new_materials/WhatsApp Video 2026-10-26 at 19.30.30.mp4 |     606371 bytes | 014135de32d1e83dfd56b45e9d1c59a59b96e6a9281d4086576f673278905274
+media/new_materials/WhatsApp Video 2026-10-26 at 19.30.36.mp4 |    8164593 bytes | 6040da19c23e33bc37ab51516b2b3f48e070c6289d14da55a4b5cdbe3035e311
+media/new_materials/WhatsApp Video 2026-10-26 at 19.30.37.mp4 |    1721348 bytes | 68ba24f115f4bbdd8ca45e956154bc2b6c5ba39b7fabb3078d6837a7e9097e23
+media/new_materials/WhatsApp Video 2026-10-26 at 19.30.38 (1).mp4 |    1452719 bytes | bab750654683ee581a8347c52b31f2803b8a1773968baf4648e11e4bd961ed3a
+media/new_materials/WhatsApp Video 2026-10-26 at 19.30.38 (2).mp4 |     990136 bytes | b86c4d5e847a947af40355d5928d4be9dc65288f17def5f91bf44370b6d5622d
+media/new_materials/WhatsApp Video 2026-10-26 at 19.30.38.mp4 |    1176524 bytes | 77bf546a1721ae96c6dd1808f7af23e747d6bc8ed0713a331c91b7b9f524d692
+media/new_materials/WhatsApp Video 2026-10-26 at 19.30.39.mp4 |    2797693 bytes | ff62a3689320e544f2dbbb7be38c6e3472b9d94320e7c3facf425cbe1ae86c4f
+media/new_materials/illustration.png                         |    1725387 bytes | 1119acd04522540faacb7c8994929184e9d4980aecbd101c8598439141772c3d
 media/original_photos/original-01-3SVpbXdo.jpg               |     464902 bytes | 0c31f47146aa9d223bc27c632412615ab92171751b9f7a28e195f79bbb2a5b94
 media/original_photos/original-02-6D0J5cM4.jpg               |     438392 bytes | 1dbe417768234f9bb1a1f812ecd3ff4b20cf885b299f2137006b77b2570590bf
 media/original_photos/original-03-DZkQX5m2.jpg               |     385260 bytes | 7efb123d02fcb5d1ce5d92ccd709a661f38a749c4cc5e3089170dd34501663a2
 media/original_photos/original-04-CfphLrrs.jpg               |     217518 bytes | 298159072e72408d75f9c78d5a652e03fad5383bdc5d4e9dd97616d81d7a4976
 media/original_photos/original-05-BUIi4oJz.jpg               |     215305 bytes | a18bbd6c17385acc3e9beef1ce95f8e5b43b8b4f64130b288aeda614cf363a04
 media/original_photos/original-06-HwQAq_jT.jpg               |     192538 bytes | 608e050676e618e169c638a355b54cbe980a556a77e90a5346854998d6726a03
+media/original_photos/original-07-research.jpg               |     297595 bytes | 4b32b3174b7c48595ce87a347c396f794e62fd8c756977913e677a4850171511
+media/original_photos/original-08-mark.jpg                   |     277243 bytes | 9d53f0911a008d85e39c1d83e305b98297a626a48465727d1833c2cbdd4f683c
+media/original_photos/original-09-cave-research.jpg          |     328425 bytes | 7a2b62fa956544ebf1f4f6588ba2e313216ada594b6236bb1f2d38d3c6b09ae8
+media/original_photos/original-10-shomish-complex.jpg        |     259631 bytes | a692de873fe1266f4cab0fa049333e4c147317e7d14085d45abc58992c2ef94c
+media/original_photos/original-11-cave-interior.jpg          |     120777 bytes | 125bae08d85ab7fbcb039aa263de30a35f6892252568fa781841a3305dc0525b
+media/original_photos/original-12-handprint.jpg              |     254428 bytes | 3e54ce21e6fc05061c35b8381d75eb2aa159dbaaa9966beb012eb2d1ef728ab0
+media/original_photos/original-13-wheel-mark.jpg             |      82524 bytes | 22f10d5a6898ec9847375e208c9b4cdb98c7509c0b5be8af2315e98c95570f55
 media/video_frames/photo-01-BtP8RCGx.webp                    |      61824 bytes | f159c155eaffe189005a806f574921fb90a164a882e2e2ef4fbeeb50f03fdb5e
 media/video_frames/photo-02-pydFSVSK.webp                    |     170338 bytes | 2b96d255fa13ed92f2ef36db5e89fc818b302b7b3294e628c726c24756b0a79c
 media/video_frames/photo-03-Cg0WatZk.webp                    |      60946 bytes | 9e266f9bb1ab77adafb4b7c47b367ac7fd2c93a6c056b5eeb4c92600a44f82b4
@@ -41,14 +80,21 @@ media/videos/video-05-CYiz761q.mp4                           |    2898371 bytes 
 media/videos/video-06-CAHO7JDm.mp4                           |    1786278 bytes | fc91c50539cb9ed0e9b78acab55d52c79b911a94d4e0d0d8cb2b330888f0692f
 media/videos/video-07-Bd6pfN0P.mp4                           |    2194921 bytes | cfcd182c9c866cdd20dee1f3f5cde3dcce5eae923a63711caf38fa1a59642678
 media/videos/video-08-BnvK18TE.mp4                           |    7088204 bytes | 139016f96e7a4d9ee9a89cb5daaf5a710cc811b8a819379f59c9fd4986614caa
-
---- ROOT ---
-missing_resources.txt                                        |       4043 bytes | d90fa4192716e871557052502737c316c368afe2746480e698a852f491b82af9
+media/videos/video-09-canyon-panorama.mp4                    |    8164593 bytes | 6040da19c23e33bc37ab51516b2b3f48e070c6289d14da55a4b5cdbe3035e311
+media/videos/video-10-mountain-caves.mp4                     |    4496132 bytes | e42bef70d0d76180bcab7303cd9b6d7328833a6c8b4886a6701be721e8ef523c
+media/videos/video-11-wall-symbols.mp4                       |    2797693 bytes | ff62a3689320e544f2dbbb7be38c6e3472b9d94320e7c3facf425cbe1ae86c4f
+media/videos/video-12-rock-cavities.mp4                      |    1717445 bytes | 2d0ace63647e82a86e02e05a9ab9b19d08855b44d41c9fe015ec9d8df256c19d
+media/videos/video-13-valley-overview.mp4                    |    1721348 bytes | 68ba24f115f4bbdd8ca45e956154bc2b6c5ba39b7fabb3078d6837a7e9097e23
+media/videos/video-14-strata-details.mp4                     |    1452719 bytes | bab750654683ee581a8347c52b31f2803b8a1773968baf4648e11e4bd961ed3a
+media/videos/video-15-rock-shelter.mp4                       |    1176524 bytes | 77bf546a1721ae96c6dd1808f7af23e747d6bc8ed0713a331c91b7b9f524d692
+media/videos/video-16-surface-macro.mp4                      |     990136 bytes | b86c4d5e847a947af40355d5928d4be9dc65288f17def5f91bf44370b6d5622d
+media/videos/video-17-field-moment.mp4                       |     606371 bytes | 014135de32d1e83dfd56b45e9d1c59a59b96e6a9281d4086576f673278905274
 
 --- SOURCE_CODE ---
 source_code/.nojekyll                                        |          0 bytes | e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-source_code/assets/index-DGTFDKdy.js                         |     320429 bytes | c969d3a449c7865f542810b8a02a62e33ccf916439c88d4272f66822fca2e21c
-source_code/assets/index-kyOdSGbm.css                        |      75922 bytes | 168429aea526fcc5bdfabc470d041c07fd88b85b9cc5bf28093d708bbdfe7a8b
+source_code/assets/illustration.png                          |    1725387 bytes | 1119acd04522540faacb7c8994929184e9d4980aecbd101c8598439141772c3d
+source_code/assets/index-DGTFDKdy.js                         |     324800 bytes | 7197b9f16b526bc138dd577427e44a5be865d2f39be726336864c96aba20494a
+source_code/assets/index-kyOdSGbm.css                        |      76165 bytes | cad24ca4d1f9bce764391812adeeafd3d967168f3f7620a74465c2360790e724
 source_code/assets/manrope-cyrillic-wght-normal-Dvxsihut.woff2 |      14500 bytes | c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914
 source_code/assets/manrope-greek-wght-normal-DL7QRZyv.woff2  |       9444 bytes | 2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be
 source_code/assets/manrope-latin-ext-wght-normal-Ch3YOpNY.woff2 |      15120 bytes | 3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb
@@ -60,6 +106,13 @@ source_code/assets/original-03-DZkQX5m2.jpg                  |     385260 bytes 
 source_code/assets/original-04-CfphLrrs.jpg                  |     217518 bytes | 298159072e72408d75f9c78d5a652e03fad5383bdc5d4e9dd97616d81d7a4976
 source_code/assets/original-05-BUIi4oJz.jpg                  |     215305 bytes | a18bbd6c17385acc3e9beef1ce95f8e5b43b8b4f64130b288aeda614cf363a04
 source_code/assets/original-06-HwQAq_jT.jpg                  |     192538 bytes | 608e050676e618e169c638a355b54cbe980a556a77e90a5346854998d6726a03
+source_code/assets/original-07-research.jpg                  |     297595 bytes | 4b32b3174b7c48595ce87a347c396f794e62fd8c756977913e677a4850171511
+source_code/assets/original-08-mark.jpg                      |     277243 bytes | 9d53f0911a008d85e39c1d83e305b98297a626a48465727d1833c2cbdd4f683c
+source_code/assets/original-09-cave-research.jpg             |     328425 bytes | 7a2b62fa956544ebf1f4f6588ba2e313216ada594b6236bb1f2d38d3c6b09ae8
+source_code/assets/original-10-shomish-complex.jpg           |     259631 bytes | a692de873fe1266f4cab0fa049333e4c147317e7d14085d45abc58992c2ef94c
+source_code/assets/original-11-cave-interior.jpg             |     120777 bytes | 125bae08d85ab7fbcb039aa263de30a35f6892252568fa781841a3305dc0525b
+source_code/assets/original-12-handprint.jpg                 |     254428 bytes | 3e54ce21e6fc05061c35b8381d75eb2aa159dbaaa9966beb012eb2d1ef728ab0
+source_code/assets/original-13-wheel-mark.jpg                |      82524 bytes | 22f10d5a6898ec9847375e208c9b4cdb98c7509c0b5be8af2315e98c95570f55
 source_code/assets/photo-01-BtP8RCGx.webp                    |      61824 bytes | f159c155eaffe189005a806f574921fb90a164a882e2e2ef4fbeeb50f03fdb5e
 source_code/assets/photo-02-pydFSVSK.webp                    |     170338 bytes | 2b96d255fa13ed92f2ef36db5e89fc818b302b7b3294e628c726c24756b0a79c
 source_code/assets/photo-03-Cg0WatZk.webp                    |      60946 bytes | 9e266f9bb1ab77adafb4b7c47b367ac7fd2c93a6c056b5eeb4c92600a44f82b4
@@ -77,10 +130,20 @@ source_code/assets/video-05-CYiz761q.mp4                     |    2898371 bytes 
 source_code/assets/video-06-CAHO7JDm.mp4                     |    1786278 bytes | fc91c50539cb9ed0e9b78acab55d52c79b911a94d4e0d0d8cb2b330888f0692f
 source_code/assets/video-07-Bd6pfN0P.mp4                     |    2194921 bytes | cfcd182c9c866cdd20dee1f3f5cde3dcce5eae923a63711caf38fa1a59642678
 source_code/assets/video-08-BnvK18TE.mp4                     |    7088204 bytes | 139016f96e7a4d9ee9a89cb5daaf5a710cc811b8a819379f59c9fd4986614caa
+source_code/assets/video-09-canyon-panorama.mp4              |    8164593 bytes | 6040da19c23e33bc37ab51516b2b3f48e070c6289d14da55a4b5cdbe3035e311
+source_code/assets/video-10-mountain-caves.mp4               |    4496132 bytes | e42bef70d0d76180bcab7303cd9b6d7328833a6c8b4886a6701be721e8ef523c
+source_code/assets/video-11-wall-symbols.mp4                 |    2797693 bytes | ff62a3689320e544f2dbbb7be38c6e3472b9d94320e7c3facf425cbe1ae86c4f
+source_code/assets/video-12-rock-cavities.mp4                |    1717445 bytes | 2d0ace63647e82a86e02e05a9ab9b19d08855b44d41c9fe015ec9d8df256c19d
+source_code/assets/video-13-valley-overview.mp4              |    1721348 bytes | 68ba24f115f4bbdd8ca45e956154bc2b6c5ba39b7fabb3078d6837a7e9097e23
+source_code/assets/video-14-strata-details.mp4               |    1452719 bytes | bab750654683ee581a8347c52b31f2803b8a1773968baf4648e11e4bd961ed3a
+source_code/assets/video-15-rock-shelter.mp4                 |    1176524 bytes | 77bf546a1721ae96c6dd1808f7af23e747d6bc8ed0713a331c91b7b9f524d692
+source_code/assets/video-16-surface-macro.mp4                |     990136 bytes | b86c4d5e847a947af40355d5928d4be9dc65288f17def5f91bf44370b6d5622d
+source_code/assets/video-17-field-moment.mp4                 |     606371 bytes | 014135de32d1e83dfd56b45e9d1c59a59b96e6a9281d4086576f673278905274
 source_code/icon-192.png                                     |       5750 bytes | fb1a1c428b1ab308222b789b6810026a91246de1475b5e925a097e49db853167
 source_code/icon-512.png                                     |      17253 bytes | 06d9d7ead7f2cc2879eb5668127ebaadebe0a0f860229e23b7134e30babd732d
 source_code/icon.svg                                         |        332 bytes | 2fdbf5c725bf1200241d1d78033c3a9e19f4178500d45da1faa18d34b7d75b92
 source_code/index.html                                       |        895 bytes | 1ee7856c57939f8fd6382b04ac99ccf87c0b1552293ebf58dc9932d54830ffcd
 source_code/manifest.webmanifest                             |        581 bytes | d3944e1e1718331deec8d80b149e16e7e50fe3d5747fa437bfcaceb773cbc639
-source_code/sw.js                                            |       2123 bytes | fe6db6b75619797b6667d3a76bc822bf62c52b63d62c9b708a6a0dbae34e474d
+source_code/sw.js                                            |       2419 bytes | b1b9f9973d0c6e944c41ae59290e7e329f5b00baa1a866e78fa2623b94adc402
 source_code/third-party-notices.txt                          |       8921 bytes | 3c49c5ede17f2ea9e34527f803e51aa0856ecedb377de8df13ac70d559449fa3
+
